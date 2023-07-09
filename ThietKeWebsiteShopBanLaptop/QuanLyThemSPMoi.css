@@ -1,0 +1,110 @@
+.icon{
+    height: 600px;
+    background-color: 	rgb(187 255 255);
+}
+.kinhlup, .chuong{
+    width: 40px;
+    height: 40px;
+}
+.user{
+    width: 70px;
+    border-radius: 50px;
+    border: solid blue 3px;
+}
+.ten{
+    font-weight: bold;
+    font-size: 20px;
+}
+.sp{
+    font-weight: bold;
+    font-size: 40px;
+}
+.khung-con{
+    /* background-color: lightgray; */
+    padding: 20px;
+}
+.nav-column{
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.nav-column li{
+    margin-bottom: 38px;
+}
+.nav-column li:first-child{
+    margin-top: 25px;
+}
+.nav-column li a{
+    color: white;
+    text-decoration: none;
+}
+.bg-nen-9{
+    background-color: rgb(0 197 205);
+}
+.logo{
+    background-color: 	rgb(187 255 255);
+}
+.strong1
+{
+    font-size: 30px;
+}
+.p1{
+    border: solid thick lightgray;
+    text-align: center;
+    padding: 10px 0;
+    font-weight: bold;
+}
+.bt1{
+    width: 200px;
+}
+.bt2{
+    width: 200px;
+    background-color: rgb(0 197 205);
+}
+.bt2:hover{
+    background-color: 	rgb(187 255 255);
+}
+.tablemuc1{
+    border: solid thick lightgray;
+}
+.tablemuc1 td{
+    border: none;
+}
+.tablemuc1 strong{
+    font-size: 22px;
+    padding: 10px;
+}
+.input1{
+    margin-left: 15px;
+    padding: 5px 0;
+    text-align: center;
+}
+.tablesp{
+    text-align: center;
+}
+.tablesp img{
+    width: 110px;
+    height: 100px;
+}
+.tablesp strong{
+    font-size: 25px;
+}
+.p4{
+    padding-top: 34px;
+}
+.p5{
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.input2{
+    margin-top: 25px;
+    text-align: center;
+    width: 110px;
+    height: 40px;
+}
+.buttonreset{
+    text-align: center;
+    margin-top: 33px;
+    border: none;
+}
